@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#777676</color>
+    <color name="activity_main_white">#FFFFFF</color>
+    <color name="activity_main_light_green">#689F38</color>
+    <color name="activity_main_whats_new_background_color">#E6EFDF</color>
+    <color name="activity_main_what_s_new_text_color">#61943E</color>
+    <color name="main_black">#000000</color>
+    <color name="activity_main_view_color">#C8C8C8</color>
+</resources>

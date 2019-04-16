@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="activity_main_background_picture">Background Picture</string>
+    <string name="application_name">Maps</string>
+    <string name="uploader_name">Google Inc.</string>
+    <string name="activity_main_three_plus_icon">three_plus_icon</string>
+    <string name="activity_main_application_icon">application_icon</string>
+    <string name="activity_main_uninstall">Uninstall</string>
+    <string name="activity_main_open">Open</string>
+    <string name="activity_main_1">1</string>
+    <string name="activity_main_downloads_icon">Downloads Icon</string>
+    <string name="activity_main_downloads">Downloads</string>
+    <string name="activity_main_num_rating">5,493,032</string>
+    <string name="activity_main_travel_local">Travel &amp; Local</string>
+    <string name="activity_main_similar">Similar</string>
+    <string name="activity_main_person_icon">Person Icon</string>
+    <string name="activity_main_get_text">Get the latest Google Maps app.</string>
+    <string name="activity_main_what_s_new_header">WHAT\'S NEW</string>
+    <string name="activity_main_whats_new_text">&#8226; Easily find hours and phone numbers for \n
+                                                         large department stores with the new \n
+                                                         department store directory in Google Maps. \n
+                                                         (US only)</string>
+    <string name="activity_main_what_s_new_icon_description">What\'s new icon</string>
+    <string name="activity_main_watch_picture">Watch Picture</string>
+    <string name="activity_main_read_more_text">READ MORE</string>
+    <string name="activity_main_horizontal_scrollview_picture">Horizontal ScrollView Picture</string>
+    <string name="activity_main_picture_of_bochora">Picture of Bochora</string>
+    <string name="activity_main_user_name">Giorgi Bochorishvili</string>
+    <string name="activity_main_rate_this_app">Rate this app</string>
+    <string name="activity_main_revews_comment">Reviews are linked to your account and are public</string>
+    <string name="activity_main_rating">4.3</string>
+</resources>

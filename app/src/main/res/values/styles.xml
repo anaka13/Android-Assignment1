@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style parent="@android:style/Widget.RatingBar" name="ImageRatingBar">
+        <item name="android:progressDrawable">@drawable/ratingbar_selector</item>
+        <item name="android:scaleX">0.7</item>
+        <item name="android:scaleY">0.7</item>
+    </style>
+
+    <style parent="@android:style/Widget.Material.RatingBar.Small" name="SmallImageRatingBar"/>
+
+    <style name="SmallWhiteImageRatingBar" parent="android:style/Widget.Material.RatingBar.Small">
+        <item name="android:secondaryProgressTint">@color/activity_main_white</item>
+        <item name="android:progressBackgroundTint">@color/activity_main_white</item>
+        <item name="android:progressTint">@color/activity_main_white</item>
+        <item name="android:scaleX">0.5</item>
+        <item name="android:scaleY">0.5</item>
+    </style>
+
+</resources>
